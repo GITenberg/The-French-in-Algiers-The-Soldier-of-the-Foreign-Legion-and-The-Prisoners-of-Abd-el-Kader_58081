@@ -1,0 +1,37 @@
+_repo: The-French-in-Algiers-The-Soldier-of-the-Foreign-Legion-and-The-Prisoners-of-Abd-el-Kader_58081
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Duff Gordon, Lucie, Lady
+    aliases:
+    - Austin, Lucie, Lady
+    - Duff-Gordon, Lucie Austin, Lady
+    - Gordon, Lucie Duff, Lady
+    birthdate: 1821
+    deathdate: 1869
+    gutenberg_agent_id: '458'
+    url: http://www.gutenberg.org/2009/agents/458
+    wikipedia: http://en.wikipedia.org/wiki/Lucie%2C_Lady_Duff-Gordon
+creator:
+  authors:
+  - agent_name: Alby, François Antoine
+    gutenberg_agent_id: '49767'
+    url: http://www.gutenberg.org/2009/agents/49767
+  - agent_name: Lamping, Clemens
+    gutenberg_agent_id: '49766'
+    url: http://www.gutenberg.org/2009/agents/49766
+description: ''
+gutenberg_issued: '2018-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The French in Algiers
+
+  The Soldier of the Foreign Legion and The Prisoners of Abd-el-Kader'
+url: http://www.gutenberg.org/ebooks/58081
